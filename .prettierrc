@@ -1,0 +1,7 @@
+{
+    "trailingComma": "es2020",
+    "tabWidth": 4,
+    "semi": true,
+    "singleQuote": true,
+    "endOfLine": "auto"
+}
